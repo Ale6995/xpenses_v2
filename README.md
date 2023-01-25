@@ -1,6 +1,6 @@
 # xpenses_v2
 
-A new Flutter project.
+A flutter update of a previous expenses tracking project, which was designed and created by me, to teach some friends about flutter.
 
 ## Getting Started
 
