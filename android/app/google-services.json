@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "297023446217",
+    "project_id": "xpenses-3a8a3",
+    "storage_bucket": "xpenses-3a8a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297023446217:android:e2899db35f55e91c878118",
+        "android_client_info": {
+          "package_name": "com.example.xpenses_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297023446217-8i1ol0d9jiv8905cku54e3s1q7s5ai1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB7eX3K8XZ6KqOkD9CPF8rLz2OC6UYRp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297023446217-8i1ol0d9jiv8905cku54e3s1q7s5ai1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297023446217-oba71boe9pp6v2qd0j1q4fbrb8mhfh6t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juliosanchez.xpensesApp.test2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297023446217:android:2a36fe98f5ed9e76878118",
+        "android_client_info": {
+          "package_name": "com.example.xpenses_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297023446217-8i1ol0d9jiv8905cku54e3s1q7s5ai1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB7eX3K8XZ6KqOkD9CPF8rLz2OC6UYRp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297023446217-8i1ol0d9jiv8905cku54e3s1q7s5ai1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297023446217-oba71boe9pp6v2qd0j1q4fbrb8mhfh6t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juliosanchez.xpensesApp.test2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
